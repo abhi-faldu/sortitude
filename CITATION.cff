@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "The Sortitude: Real-Time Waste Classification on a Google Coral Edge TPU"
+abstract: >-
+  A MobileNetV2 waste classifier (cardboard, glass, metal, paper, plastic,
+  trash) trained on TrashNet, compressed to int8 and compiled for the Google
+  Coral Edge TPU. The int8 model is 2.6 MB with 89.7% validation accuracy and
+  runs at 3.09 ms per image on the Edge TPU, 42x faster than the board's CPU,
+  with a live webcam dashboard running entirely on the device.
+type: software
+authors:
+  - given-names: Abhi
+    family-names: Faldu
+  - given-names: Aatman
+    family-names: Sabhaya
+  - given-names: Jeel
+    family-names: Sidpara
+repository-code: "https://github.com/abhi-faldu/sortitude"
+license: MIT
+version: 1.0.0
+keywords:
+  - edge AI
+  - TinyML
+  - Edge TPU
+  - Google Coral
+  - TensorFlow Lite
+  - quantization
+  - MobileNetV2
+  - waste classification
+  - computer vision

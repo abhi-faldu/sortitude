@@ -1,0 +1,5 @@
+variant,file,size_mb,accuracy,edge_tpu_ready,on_device_latency_ms,backend,notes
+Baseline Float32 TFLite,sortitude_float32.tflite,8.485164642333984,0.9287128712871288,No,,,Not run on device
+Full Int8 Quantized TFLite,sortitude_int8.tflite,2.5934982299804688,0.897029702970297,"Yes, after edgetpu_compiler",130.74,Coral CPU,Measured on board (50 runs avg)
+Manual Pruned 50% + Int8 TFLite,sortitude_pruned_int8.tflite,2.5934982299804688,0.0,"Yes, after edgetpu_compiler",,,Accuracy collapsed (failed variant)
+Int8 Edge TPU Compiled,sortitude_int8_edgetpu.tflite,2.79296875,0.897029702970297,"Yes (compiled)",3.09,Coral Edge TPU,All 67 ops on TPU; 42.3x faster than CPU; ~280 FPS inference

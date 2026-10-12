@@ -1,0 +1,17 @@
+# Local Claude Code settings
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Local working files
+linkedin/
+
+# Large source model - published as a GitHub Release asset instead
+models/*.keras

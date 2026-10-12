@@ -1,0 +1,7 @@
+# Laptop / Colab side. The Coral board ships its own runtime (pycoral, tflite_runtime) - see docs/SETUP.md.
+numpy
+opencv-python
+tensorflow>=2.12               # training notebook + CPU inference with board/demo.py --cpu
+tensorflow-model-optimization  # pruning experiment in the notebook
+matplotlib
+gdown                          # dataset download in the notebook

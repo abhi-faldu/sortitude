@@ -1,0 +1,2 @@
+# Shell scripts run on the Coral Dev Board (Linux) — must stay LF
+*.sh text eol=lf
