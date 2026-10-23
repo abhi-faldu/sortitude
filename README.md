@@ -27,11 +27,11 @@
 
 ## 💡 The Idea
 
-Every day, tons of recyclable material end up in landfills simply because waste gets sorted into the wrong bin. Sorting is boring, error-prone work — exactly the kind of job a machine should do.
+Every day, tons of recyclable material end up in landfills simply because waste gets sorted into the wrong bin. Sorting by hand is boring, error-prone work — exactly the kind of job a machine should do.
 
-**The Sortitude** is a small, self-contained device that does it: point a webcam at a piece of waste, and an AI model classifies it into one of six categories — **cardboard, glass, metal, paper, plastic, or trash** — and routes it to *Recycling* or *Landfill*. No cloud, no internet, no big server. Everything runs on a credit-card-sized computer: the **Google Coral Dev Board** with its built-in **Edge TPU** AI chip.
+**The Sortitude** is a small, self-contained device that does it: point a webcam at a piece of waste, and an AI model classifies it into one of six categories — **cardboard, glass, metal, paper, plastic, or trash** — and routes it to the *Recycling* or *Landfill* bin. No cloud, no internet, no big server. Everything runs on a credit-card-sized computer: the **Google Coral Dev Board** with its built-in **Edge TPU** AI chip.
 
-> Built as a 3-person team project for the *AI on an Edge Device* course at TH Rosenheim.
+> Built as a 3-person team project for the *AI on an Edge Device* course at TH Rosenheim (Germany).
 
 ---
 
