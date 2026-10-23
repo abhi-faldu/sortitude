@@ -228,6 +228,7 @@ If you use this code, the models or the results, please cite it. GitHub's **"Cit
 - **Code and trained models:** [MIT License](LICENSE)
 - **Documentation, figures, demo media and sample images** (`docs/`, `assets/`, `samples/`, this README): [CC BY 4.0](LICENSE-docs)
 - Trained on [TrashNet](https://github.com/garythung/trashnet) by Gary Thung and Mindy Yang (MIT License); the dataset images shown here remain under that license.
+- Scope and third-party exceptions are spelled out in [NOTICE.md](NOTICE.md).
 
 ---
 
