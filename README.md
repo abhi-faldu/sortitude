@@ -13,7 +13,7 @@
 
 [![License: MIT](https://img.shields.io/badge/CODE-MIT-22C55E?style=flat-square)](LICENSE)
 [![License: CC BY 4.0](https://img.shields.io/badge/DOCS-CC%20BY%204.0-22C55E?style=flat-square)](LICENSE-docs)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23590213.svg)](https://doi.org/10.5281/zenodo.23590213)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23590213-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.23590213)
 
 <img src="assets/demo.gif" alt="Real frames classified live on the Coral Edge TPU" width="380"/>
 
