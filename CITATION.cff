@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software or its results, please cite it as below."
-title: "The Sortitude: Real-Time Waste Classification on a Google Coral Edge TPU"
+title: "The Sortitude: Real-Time Edge AI Waste Classification on a Google Coral Edge TPU"
 abstract: >-
   A MobileNetV2 waste classifier (cardboard, glass, metal, paper, plastic,
   trash) trained on TrashNet, compressed to int8 and compiled for the Google
