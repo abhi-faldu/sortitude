@@ -11,13 +11,17 @@ type: software
 authors:
   - given-names: Abhi
     family-names: Faldu
+    affiliation: Technische Hochschule Rosenheim
   - given-names: Aatman
     family-names: Sabhaya
+    affiliation: Technische Hochschule Rosenheim
   - given-names: Jeel
     family-names: Sidpara
+    affiliation: Technische Hochschule Rosenheim
 repository-code: "https://github.com/abhi-faldu/sortitude"
 license: MIT
-version: 1.0.0
+version: 1.0.1
+date-released: 2026-10-23
 keywords:
   - edge AI
   - TinyML
@@ -28,3 +32,33 @@ keywords:
   - MobileNetV2
   - waste classification
   - computer vision
+references:
+  - type: report
+    title: "Classification of Trash for Recyclability Status"
+    authors:
+      - given-names: Gary
+        family-names: Thung
+      - given-names: Mindy
+        family-names: Yang
+    institution:
+      name: Stanford University
+    notes: "CS229 project report; TrashNet dataset"
+    year: 2016
+    url: "https://github.com/garythung/trashnet"
+  - type: conference-paper
+    title: "MobileNetV2: Inverted Residuals and Linear Bottlenecks"
+    authors:
+      - given-names: Mark
+        family-names: Sandler
+      - given-names: Andrew
+        family-names: Howard
+      - given-names: Menglong
+        family-names: Zhu
+      - given-names: Andrey
+        family-names: Zhmoginov
+      - given-names: Liang-Chieh
+        family-names: Chen
+    collection-title: "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+    year: 2018
+    pages: "4510-4520"
+    doi: 10.1109/CVPR.2018.00474
