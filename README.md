@@ -31,7 +31,7 @@ Every day, tons of recyclable material end up in landfills simply because waste 
 
 **The Sortitude** is a small, self-contained device that does it: point a webcam at a piece of waste, and an AI model classifies it into one of six categories — **cardboard, glass, metal, paper, plastic, or trash** — and routes it to the *Recycling* or *Landfill* bin. No cloud, no internet, no big server. Everything runs on a credit-card-sized computer: the **Google Coral Dev Board** with its built-in **Edge TPU** AI chip.
 
-> Built as a 3-person team project for the *AI on an Edge Device* course at TH Rosenheim (Germany).
+> Built as a 3-person team project for the *Embedded AI* course at TH Rosenheim (Germany).
 
 ---
 
@@ -233,6 +233,6 @@ If you use this code, the models or the results, please cite it. GitHub's **"Cit
 ---
 
 <div align="center">
-  <sub>Course project — AI on an Edge Device, TH Rosenheim.<br>
+  <sub>Course project — Embedded AI, TH Rosenheim.<br>
   From a folder of trash photos to a working smart-bin prototype, entirely on a 2-watt chip.</sub>
 </div>
