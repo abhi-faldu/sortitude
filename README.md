@@ -215,7 +215,7 @@ If you use this code, the models or the results, please cite it. GitHub's **"Cit
 ```bibtex
 @software{sortitude2026,
   author  = {Faldu, Abhi and Sabhaya, Aatman and Sidpara, Jeel},
-  title   = {The Sortitude: Real-Time Waste Classification on a Google Coral Edge TPU},
+  title   = {The Sortitude: Real-Time Edge AI Waste Classification on a Google Coral Edge TPU},
   year    = {2026},
   version = {1.0.1},
   doi     = {10.5281/zenodo.23590213},
